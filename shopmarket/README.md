@@ -18,9 +18,22 @@ To initiate the program, use the following command:
 
 >./main.exe my_inventory.txt
 
-change <span style="color: orange">_my_inventory_</span>.txt to desired file for reading and writing to.  
+change <span style="color: orange">_my_inventory_</span>.txt to desired file for reading and writing to. 
+
+### **Running the code**
+Example of file format: 
+
+|Itemnumber|Name|In stock|
+|----------|----|--------|
+|101|apple|5|
+|102|banana|8|
+|103|orange|12|
+|104|grape|15|
+|120|ham|230|
+|202|dress|2|
+
 
 ### **Trobleshooting section**
-The testversion is written in swedish and have less complex logic formanaging time and space. 
+The testversion is written in swedish and have less complex logic formanaging time and space. To find the whole version of the code go into files folder. 
 
 
